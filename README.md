@@ -17,12 +17,11 @@ You've found all you need to in Earth. Now it's time to leave Earth and go to Ga
 ## 3. Analyze the planets in Gargantuan System
 
 It's time to enter your new stellar system using `git branch` and `git checkout` to go to the gargantua system. Now that yuor finally in gargantua explore the plantes and find one that's compatible with us. The compatability criteria is:
-
 - It must have anything older than 25 years
-- The file that satisfies these has the third answer
+- It must be screaming it's name out loud
+The file that satisfies these has the third answer
 
 ## 4. Gargantua
 
-U have found the planet which is habitable. Now you must get the message to Earth in time for them to leave and survive. Enter the blackhole **Gargantua** and take your final password. Now make a `solve.sh` file and script it so that it takes input and then decodes the given string from **base-b4**. Finally, give the clues you've found so far to the script file. <hr>
-
+U have found the planet which is habitable. Now you must get the message to Earth in time for them to leave and survive. Enter the blackhole **Gargantua** and find the message from **Them**. Now make a `solve.sh` file and script it so that it takes a string as input and then decodes the given string from **base-b4**. Finally, give the clues you've found so far to the script file. <hr>
 At last, the task is done and Earth is saved. Now save and commit all the changes along with the screenshot of completion and remember that while your journey through the stars is over, your journey with amFOSS has only just begun
