@@ -1,16 +1,16 @@
-# Terminal-Hunt
+d# Terminal-Hunt
 
-The Earth is dying-a land choked with dust, stripped of its harvest by the parching nature of man. Nature has turned hostile; it is no longer a home but a warning. Interstellar, then: apocalypse not by fire but by a slow, silent surrender. It is my survival that is assured if I look to the stars; to stay would be no option<hr>
+The Earth is dying- a land choked with dust, stripped of its harvest by the parching nature of man. Nature has turned hostile; it is no longer a home but a warning. Interstellar, then: apocalypse not by fire but by a slow, silent surrender. It is my survival that is assured if I look to the stars; to stay would be no option<hr>
 
 This task is meant to teach you the basics of **git and terminal commands** in a fun game-like manner. You can use [this resource](https://linuxjourney.com/lesson/the-shell) to learn the basics and you must find the rest through google
 
 You can start this task by first cloning it into your system using `git clone` and then enter it using `cd Terminal-Hunt`. Be sure to store all the passwords that you find in a text file and also to commit changes after finishing every part
 
-## 1.Find the Facility
+## 1. Find the Facility
 
 The only way to survive this apocalypse is by leaving Earth and reaching for the stars. Use `ls` to observe your surroundings and `cd` to enter directories. There's a facility hidden somewhere on Earth that is trying to find a way to survive. **Find it** using the `grep` or `find` command and get the first piece of the puzzle (the gravity equation) to escape Earth
 
-## 2.Enter the wormhole
+## 2. Enter the wormhole
 
 You've found all you need to in Earth. Now it's time to leave Earth and go to Gargantua. To do so though, first you have to go to the **wormhole** near Saturn's ring but it's too well hidden. Use one of the flags of `ls` to find the **wormhole**, enter it using `chmod` and then go through it to get your second key
 
