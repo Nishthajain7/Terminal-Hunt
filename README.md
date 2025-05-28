@@ -1,4 +1,4 @@
-`d# Terminal-Hunt
+# Terminal-Hunt
 
 The Earth is dying- a land choked with dust, stripped of its harvest by the parching nature of man. Nature has turned hostile; it is no longer a home but a warning. Interstellar, then: apocalypse not by fire but by a slow, silent surrender. It is my survival that is assured if I look to the stars; to stay would be no option<hr>
 
@@ -12,13 +12,13 @@ The only way to survive this apocalypse is by leaving Earth and reaching for the
 
 ## 2. Enter the wormhole
 
-You've found all you need to in Earth. Now it's time to leave Earth and go to Gargantua. To do so though, first you have to go to the **wormhole** near Saturn's ring but it's too well hidden. Use one of your advanced tools to find the **wormhole**, make it executable and then go through it to get your second key
+You've found all you need to in Earth. Now it's time to leave Earth and go to Gargantua. To do so though, first you have to go to the **wormhole** near Saturn's ring but it warps the space around it and is very difficult to find. Use one of your advanced tools to find the **wormhole**, make it executable and then go through it to get your second key
 
 ## 3. Analyze the planets in Gargantuan System
 
-It's time to enter your new stellar system by changing branches. Now that your finally in gargantua explore the plantes and find one that's compatible with us. It must be screaming that it's habitable to us. It must also be exactly 103 bytes
+It's time to enter your new stellar system by changing branches. Now that your finally in gargantua explore the plantes and find one that's compatible with us. It must be screaming that it's habitable to us, must be smaller than 105 and must also be bigger than 100 or else it won't last and will only be a temporary sanctuary. Beware, for it won't be easy to find.
 
 ## 4. Gargantua
 
-U have found the planet which is habitable. Now you must get the message to Earth in time for them to leave and survive. Enter the blackhole **Gargantua** and find the message from **Them**. Now make a `solve.sh` file and script it so that it takes a string as input and then decodes the given string from **base-b4**. Finally, give the clues you've found so far to the script file. <hr>
+U have found the planet which is habitable. Now you must get the message to Earth in time for them to leave and survive. Enter the blackhole **Gargantua** and find the message from **Them**. Now make a `solve.sh` file and script it so that it takes a string as input and then decodes the given string from **base-b4**. Finally, give the clues you've found so far to the script file <hr>
 At last, the task is done and Earth is saved. Now save and commit all the changes along with the screenshot of completion and remember that while your journey through the stars is over, your journey with amFOSS has only just begun
