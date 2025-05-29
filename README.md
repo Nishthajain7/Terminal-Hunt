@@ -12,7 +12,7 @@ The only way to survive this apocalypse is by leaving Earth and reaching for the
 
 ## 2. Enter the wormhole
 
-You've found all you need to in Earth. Now it's time to leave Earth and go to Gargantua. To do so though, first you have to go to the **wormhole** near Saturn's ring but it warps the space around it and is very difficult to find. Use one of your advanced tools to find the **wormhole**, make it executable and then go through it to get your second key
+You've found all you need to in Earth. Now it's time to leave Earth and go to Gargantua. To do so though, first you have to go to the **wormhole** near Saturn's ring but it warps the space around it and is very difficult to find. The **wormhole** is hidden so you'll have to find it, make it executable and then go through it to get your second key. Now you can move back to root and then go to the **Gargantua System**
 
 ## 3. Analyze the planets in Gargantuan System
 
